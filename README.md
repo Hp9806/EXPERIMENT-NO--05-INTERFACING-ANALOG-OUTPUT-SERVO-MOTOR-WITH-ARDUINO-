@@ -53,7 +53,7 @@ CIRCUIT DIAGRAM
  ![image](https://user-images.githubusercontent.com/36288975/163544618-6eb8a7b5-7f1a-428a-8d9f-fd899b145efb.png)
 
 ### FIGURE 04 CIRCUIT DIAGRAM
-![](1.png)
+
 
 ### PROCEDURE:
 1.	Connect the circuit as per the circuit diagram 
@@ -91,8 +91,9 @@ void loop()
 }
 ~~~
 
+# OUTPUT:
 
-
+![](1.png)
 
 
 
